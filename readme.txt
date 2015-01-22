@@ -4,7 +4,7 @@ Donate link:
 Tags: fb comments, facebook, comments, fb comments import, facebook comments, facebook comments import, discussion, fb comments box
 Requires at least: 3.0
 Tested up to: 4.1
-Stable tag: 1.0.0
+Stable tag: 1.0.1
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 

@@ -204,6 +204,9 @@ Class FBCommentsBox{
 
         $file = $this->GetHTTPSData($api_url);
         $FBobject = json_decode($file);
+        if(!$FBobject){
+            return false;
+        }
 
         $FBCommentsArray = array_reverse($FBobject->data);
         
