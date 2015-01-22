@@ -39,7 +39,7 @@ if(!function_exists('curl_version')){
                         </form>
                     </td>
                     <td valign="top">
-                        <h2><a href="http://wp-resources.com/plugins/">Buy Pro version for only 24,99 usd</a></h2>
+                        <h2><a href="http://wp-resources.com/facebook-comments-box-importer/">Buy Pro version for only 24,99 usd</a></h2>
                         <ul>
                             <li>- Import comments from external URLs</li>
                             <li>- Import comments automatically (with WP cron)</li>
