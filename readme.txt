@@ -26,6 +26,13 @@ For any issues with the plugin, please open a support ticket and we will fix it 
 3. Create a Facebook APP at developers.facebook.com/apps/
 4. Configure the plugin by going to the `FB Comments Box Importer` page
 
+== Frequently asked questions ==
+
+== Screenshots ==
+
+1. FB Comments Box Importer - configuration
+2. FB Comments Box Importer - Import comments button
+3. FB Comments Box Importer - Pro version
 
 == Changelog ==
 
