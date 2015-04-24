@@ -1,5 +1,5 @@
 === FB Comments Box Importer ===
-Contributors: ivan.m89
+Contributors: ivan.m89,dale3h
 Donate link: 
 Tags: fb comments, facebook, comments, fb comments import, facebook comments, facebook comments import, discussion, fb comments box
 Requires at least: 3.0
